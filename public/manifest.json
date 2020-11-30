@@ -1,0 +1,22 @@
+{
+    "icons": [{
+            "src": "/icons/icon_512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon_192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "name": "Budget-Tracker app",
+    "short_name": "budget",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "/",
+    "description": "An application that allows you to log your expenses against a budget and view over time",
+    "background_color": "#01579b",
+    "theme_color": "#ffffff",
+    "theme-color": "#ffffff"
+}

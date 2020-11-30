@@ -3,6 +3,7 @@
 
 ## Project Description
 ***
+The Budget Tracker is a progressive web application(PWA) which allows the user to track their expenses. The user can record a title or category for each expense as well as the amount which can be added or subtracted from their budget totals. The application will display these expenses graphically over time.
 
 
 ## Table of Contents
@@ -18,7 +19,7 @@
 
 ## Installation
 ***
-Users may clone this [Github repository]() into their local drive and run,
+Users may clone this [Github repository](https://github.com/alizehssn/Budget-Tracker) into their local drive and run start in their terminal command line,
  or use the [Workout Tracker application]()
 
  ## Usage
@@ -39,6 +40,8 @@ Users may clone this [Github repository]() into their local drive and run,
  * Node.JS
  * Express.JS
  * Mongo.DB
+ * Webpack
+ * IndexedDB
 
  ## Author
  ***
