@@ -20,10 +20,13 @@ The Budget Tracker is a progressive web application(PWA) which allows the user t
 ## Installation
 ***
 Users may clone this [Github repository](https://github.com/alizehssn/Budget-Tracker) into their local drive and run start in their terminal command line,
- or use the [Workout Tracker application]()
+ or use the [Budget Tracker application](https://warm-anchorage-06719.herokuapp.com/)
 
  ## Usage
  ***
+
+ ![Budget-Tracker Image](/budgettracker.png)
+ This application takes users to a dashboard in which the user can enter the name, amount, and whether to add or subtract funds from each transaction. The application then displays the entered information graphically. The application utilizes webpack package as a node module builder in order to consolidate a large number of files into one bundle to run the application. The webpack for this application contained the icon image information with the manifest file, the webpack and manifest communicate to the browser how to respond to the application. In order to allow the application to have offline functionality a IndexDB was created to store the offline transactions and then put in the MongoDB when the application returns online.
  
 
  ## Tests
